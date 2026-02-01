@@ -24,6 +24,7 @@ A modern AI chatbot built using **Google Gemini API**, featuring:
 - Responsive UI
 
 ##  Live Demo
+https://athrv-d.github.io/Gemini-ai-chatbot/
  
 ## 🛠️ Setup Instructions
 1. Clone the repo
