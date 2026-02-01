@@ -1,4 +1,4 @@
-# Gemini AI Chatbot 🤖
+# Gemini AI Chatbot 
 
 A modern AI chatbot built using **Google Gemini API**, featuring:
 - Typing animation
@@ -8,13 +8,13 @@ A modern AI chatbot built using **Google Gemini API**, featuring:
 - Dark / Light theme
 - Abort (Stop) response handling
 
-## 🔧 Tech Stack
+##  Tech Stack
 - HTML
 - CSS
 - JavaScript (Vanilla)
 - Google Gemini API
 
-## ✨ Features
+##  Features
 - Real-time typing effect
 - Markdown parsing (bold, italic, lists, code blocks)
 - Copy button for code snippets
@@ -23,9 +23,8 @@ A modern AI chatbot built using **Google Gemini API**, featuring:
 - Abort ongoing AI responses
 - Responsive UI
 
-## 🚀 Live Demo
-👉 (Add GitHub Pages link here after deployment)
-
+##  Live Demo
+ 
 ## 🛠️ Setup Instructions
 1. Clone the repo
 2. Open `script.js`
