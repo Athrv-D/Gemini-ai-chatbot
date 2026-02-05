@@ -1,14 +1,3 @@
-
-⚠️ Note:
-For security reasons, the Gemini API key is not included in the public demo.
-To enable AI responses locally:
-1. Create a `config.js` file
-2. Add your Gemini API key
-3. Open the project using a local server
-
-
-
-
 # Gemini AI Chatbot 
 
 A modern AI chatbot built using **Google Gemini API**, featuring:
@@ -36,6 +25,14 @@ A modern AI chatbot built using **Google Gemini API**, featuring:
 
 ##  Live Demo
 https://athrv-d.github.io/Gemini-ai-chatbot/
+
+⚠️ Note:
+For security reasons, the Gemini API key is not included in the public demo.
+To enable AI responses locally:
+1. Create a `config.js` file
+2. Add your Gemini API key
+3. Open the project using a local server
+
  
 ## 🛠️ Setup Instructions
 1. Clone the repo
